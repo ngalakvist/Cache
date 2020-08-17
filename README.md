@@ -14,3 +14,5 @@ it to remove the last element of the linked list when the list exceeds a certain
 In addition, we must also handle updating or clearing the cache when the results for a query change.
 Because some queries are very common and may permanently reside in the cache, we cannot just wait for
 the cache to naturally expire
+
+Source.  https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
