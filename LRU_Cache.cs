@@ -44,6 +44,7 @@ namespace Cache
 			moveToFront(node);
 		}
 
+		// Fix you link linklist pointers
 		public void removeFromLinkedList(Node node)
 		{
 			if (node == null)
